@@ -1,0 +1,276 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 8.2.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# Viminfo version
+|1,4
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 명령 행 히스토리 (새것부터 오래된 것 순):
+:wq
+|2,0,1687866951,,"wq"
+:q!
+|2,0,1687416157,,"q!"
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 행 히스토리 (새것부터 오래된 것 순):
+
+# 디버그 행 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+
+# 파일 마크:
+'0  126  7  ~/project/digitalframe4.py
+|4,48,126,7,1687866951,"~/project/digitalframe4.py"
+'1  121  45  ~/project/digitalframe4.py
+|4,49,121,45,1687866879,"~/project/digitalframe4.py"
+'2  121  45  ~/project/digitalframe4.py
+|4,50,121,45,1687866879,"~/project/digitalframe4.py"
+'3  381  0  ~/project/smfunc4.py
+|4,51,381,0,1687858940,"~/project/smfunc4.py"
+'4  302  14  ~/project/smfunc2.py
+|4,52,302,14,1687588530,"~/project/smfunc2.py"
+'5  315  0  ~/project/smfunc.py
+|4,53,315,0,1687583990,"~/project/smfunc.py"
+'6  242  13  /etc/samba/smb.conf
+|4,54,242,13,1687416157,"/etc/samba/smb.conf"
+'7  1  0  ~/test.py
+|4,55,1,0,1687416067,"~/test.py"
+
+# 점프목록 (새것이 먼저):
+-'  126  7  ~/project/digitalframe4.py
+|4,39,126,7,1687866951,"~/project/digitalframe4.py"
+-'  121  45  ~/project/digitalframe4.py
+|4,39,121,45,1687866948,"~/project/digitalframe4.py"
+-'  121  45  ~/project/digitalframe4.py
+|4,39,121,45,1687866879,"~/project/digitalframe4.py"
+-'  1  0  ~/project/digitalframe4.py
+|4,39,1,0,1687866810,"~/project/digitalframe4.py"
+-'  1  0  ~/project/digitalframe4.py
+|4,39,1,0,1687866810,"~/project/digitalframe4.py"
+-'  381  0  ~/project/smfunc4.py
+|4,39,381,0,1687858940,"~/project/smfunc4.py"
+-'  381  0  ~/project/smfunc4.py
+|4,39,381,0,1687858940,"~/project/smfunc4.py"
+-'  381  0  ~/project/smfunc4.py
+|4,39,381,0,1687858940,"~/project/smfunc4.py"
+-'  381  0  ~/project/smfunc4.py
+|4,39,381,0,1687858940,"~/project/smfunc4.py"
+-'  1  0  ~/project/smfunc4.py
+|4,39,1,0,1687858871,"~/project/smfunc4.py"
+-'  1  0  ~/project/smfunc4.py
+|4,39,1,0,1687858871,"~/project/smfunc4.py"
+-'  1  0  ~/project/smfunc4.py
+|4,39,1,0,1687858871,"~/project/smfunc4.py"
+-'  1  0  ~/project/smfunc4.py
+|4,39,1,0,1687858871,"~/project/smfunc4.py"
+-'  302  14  ~/project/smfunc2.py
+|4,39,302,14,1687588530,"~/project/smfunc2.py"
+-'  302  14  ~/project/smfunc2.py
+|4,39,302,14,1687588530,"~/project/smfunc2.py"
+-'  302  14  ~/project/smfunc2.py
+|4,39,302,14,1687588530,"~/project/smfunc2.py"
+-'  302  14  ~/project/smfunc2.py
+|4,39,302,14,1687588530,"~/project/smfunc2.py"
+-'  302  14  ~/project/smfunc2.py
+|4,39,302,14,1687588530,"~/project/smfunc2.py"
+-'  302  14  ~/project/smfunc2.py
+|4,39,302,14,1687588530,"~/project/smfunc2.py"
+-'  302  14  ~/project/smfunc2.py
+|4,39,302,14,1687588530,"~/project/smfunc2.py"
+-'  302  14  ~/project/smfunc2.py
+|4,39,302,14,1687588530,"~/project/smfunc2.py"
+-'  1  0  ~/project/smfunc2.py
+|4,39,1,0,1687584015,"~/project/smfunc2.py"
+-'  1  0  ~/project/smfunc2.py
+|4,39,1,0,1687584015,"~/project/smfunc2.py"
+-'  1  0  ~/project/smfunc2.py
+|4,39,1,0,1687584015,"~/project/smfunc2.py"
+-'  1  0  ~/project/smfunc2.py
+|4,39,1,0,1687584015,"~/project/smfunc2.py"
+-'  1  0  ~/project/smfunc2.py
+|4,39,1,0,1687584015,"~/project/smfunc2.py"
+-'  1  0  ~/project/smfunc2.py
+|4,39,1,0,1687584015,"~/project/smfunc2.py"
+-'  1  0  ~/project/smfunc2.py
+|4,39,1,0,1687584015,"~/project/smfunc2.py"
+-'  1  0  ~/project/smfunc2.py
+|4,39,1,0,1687584015,"~/project/smfunc2.py"
+-'  315  0  ~/project/smfunc.py
+|4,39,315,0,1687583990,"~/project/smfunc.py"
+-'  315  0  ~/project/smfunc.py
+|4,39,315,0,1687583990,"~/project/smfunc.py"
+-'  315  0  ~/project/smfunc.py
+|4,39,315,0,1687583990,"~/project/smfunc.py"
+-'  315  0  ~/project/smfunc.py
+|4,39,315,0,1687583990,"~/project/smfunc.py"
+-'  315  0  ~/project/smfunc.py
+|4,39,315,0,1687583990,"~/project/smfunc.py"
+-'  315  0  ~/project/smfunc.py
+|4,39,315,0,1687583990,"~/project/smfunc.py"
+-'  315  0  ~/project/smfunc.py
+|4,39,315,0,1687583990,"~/project/smfunc.py"
+-'  315  0  ~/project/smfunc.py
+|4,39,315,0,1687583990,"~/project/smfunc.py"
+-'  315  0  ~/project/smfunc.py
+|4,39,315,0,1687583990,"~/project/smfunc.py"
+-'  315  0  ~/project/smfunc.py
+|4,39,315,0,1687583990,"~/project/smfunc.py"
+-'  315  0  ~/project/smfunc.py
+|4,39,315,0,1687583990,"~/project/smfunc.py"
+-'  315  0  ~/project/smfunc.py
+|4,39,315,0,1687583990,"~/project/smfunc.py"
+-'  315  0  ~/project/smfunc.py
+|4,39,315,0,1687583990,"~/project/smfunc.py"
+-'  315  0  ~/project/smfunc.py
+|4,39,315,0,1687583990,"~/project/smfunc.py"
+-'  315  0  ~/project/smfunc.py
+|4,39,315,0,1687583990,"~/project/smfunc.py"
+-'  315  0  ~/project/smfunc.py
+|4,39,315,0,1687583990,"~/project/smfunc.py"
+-'  1  0  ~/project/smfunc.py
+|4,39,1,0,1687583980,"~/project/smfunc.py"
+-'  1  0  ~/project/smfunc.py
+|4,39,1,0,1687583980,"~/project/smfunc.py"
+-'  1  0  ~/project/smfunc.py
+|4,39,1,0,1687583980,"~/project/smfunc.py"
+-'  1  0  ~/project/smfunc.py
+|4,39,1,0,1687583980,"~/project/smfunc.py"
+-'  1  0  ~/project/smfunc.py
+|4,39,1,0,1687583980,"~/project/smfunc.py"
+-'  1  0  ~/project/smfunc.py
+|4,39,1,0,1687583980,"~/project/smfunc.py"
+-'  1  0  ~/project/smfunc.py
+|4,39,1,0,1687583980,"~/project/smfunc.py"
+-'  1  0  ~/project/smfunc.py
+|4,39,1,0,1687583980,"~/project/smfunc.py"
+-'  1  0  ~/project/smfunc.py
+|4,39,1,0,1687583980,"~/project/smfunc.py"
+-'  1  0  ~/project/smfunc.py
+|4,39,1,0,1687583980,"~/project/smfunc.py"
+-'  1  0  ~/project/smfunc.py
+|4,39,1,0,1687583980,"~/project/smfunc.py"
+-'  1  0  ~/project/smfunc.py
+|4,39,1,0,1687583980,"~/project/smfunc.py"
+-'  1  0  ~/project/smfunc.py
+|4,39,1,0,1687583980,"~/project/smfunc.py"
+-'  1  0  ~/project/smfunc.py
+|4,39,1,0,1687583980,"~/project/smfunc.py"
+-'  1  0  ~/project/smfunc.py
+|4,39,1,0,1687583980,"~/project/smfunc.py"
+-'  1  0  ~/project/smfunc.py
+|4,39,1,0,1687583980,"~/project/smfunc.py"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  242  13  /etc/samba/smb.conf
+|4,39,242,13,1687416157,"/etc/samba/smb.conf"
+-'  1  0  /etc/samba/smb.conf
+|4,39,1,0,1687416132,"/etc/samba/smb.conf"
+-'  1  0  /etc/samba/smb.conf
+|4,39,1,0,1687416132,"/etc/samba/smb.conf"
+-'  1  0  /etc/samba/smb.conf
+|4,39,1,0,1687416132,"/etc/samba/smb.conf"
+-'  1  0  /etc/samba/smb.conf
+|4,39,1,0,1687416132,"/etc/samba/smb.conf"
+-'  1  0  /etc/samba/smb.conf
+|4,39,1,0,1687416132,"/etc/samba/smb.conf"
+-'  1  0  /etc/samba/smb.conf
+|4,39,1,0,1687416132,"/etc/samba/smb.conf"
+-'  1  0  /etc/samba/smb.conf
+|4,39,1,0,1687416132,"/etc/samba/smb.conf"
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/project/digitalframe4.py
+	*	1687866951	0
+	"	126	7
+
+> ~/project/smfunc4.py
+	*	1687858939	0
+	"	381	0
+
+> ~/project/smfunc2.py
+	*	1687588527	0
+	"	302	14
+
+> ~/project/smfunc.py
+	*	1687583989	0
+	"	315	0
+
+> /etc/samba/smb.conf
+	*	1687416137	0
+	"	242	13
+	^	242	14
+	.	242	11
+	+	242	11
+
+> ~/test.py
+	*	1687416066	0
+	"	1	0
